@@ -2,6 +2,8 @@
 /platforms
 /plugins
 /node_modules
+/www
+www
 
 GoogleService-Info.plist
 GoogleService-Info.plist.*
@@ -9,3 +11,5 @@ google-services.json
 google-services.json.*
 app-release.apk
 android.keystore
+android_fornecedor_pb.keystore
+app-release.apk.idsig

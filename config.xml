@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="br.gov.ba.car.sol.supplier" version="1.0.8" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>SOL Fornecedor</name>
+<widget id="br.gov.pb.cooperar.sol.fornecedor" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>SOL Associação</name>
     <description>
-        Sistema Online de Licitação
+        Aplicativo de compras online
     </description>
-    <author email="suporteapp.car@gmail.com" href="http://www.car.ba.gov.br">
-        CAR - Companhia Desenv. Ação Regional
+    <author email="cooperarpb@gmail.com" href="https://cooperar.pb.gov.br/">
+        Projeto Cooperar PB
     </author>
     <content src="index.html" />
     <access origin="*" />
