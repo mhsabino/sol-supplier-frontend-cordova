@@ -10,7 +10,7 @@
     "author": "Projeto Cooperar PB",
     "license": "Apache-2.0",
     "dependencies": {
-        "cordova-android": "^8.1.0",
+        "cordova-android": "^8.0.0",
         "cordova-plugin-androidx": "^1.0.2",
         "cordova-plugin-androidx-adapter": "^1.1.0",
         "cordova-plugin-firebasex": "git+https://github.com/dpa99c/cordova-plugin-firebase.git",
