@@ -11,12 +11,10 @@
     "license": "Apache-2.0",
     "dependencies": {
         "cordova-plugin-androidx": "^1.0.2",
-        "cordova-plugin-androidx-adapter": "^1.1.0",
-        "cordova-plugin-whitelist": "^1.3.4"
+        "cordova-plugin-androidx-adapter": "^1.1.0"
     },
     "cordova": {
         "plugins": {
-            "cordova-plugin-whitelist": {},
             "cordova-plugin-androidx": {},
             "cordova-plugin-androidx-adapter": {},
             "cordova-plugin-firebasex": {
@@ -45,9 +43,12 @@
                 "ANDROID_GRPC_OKHTTP": "1.46.0"
             }
         },
-        "platforms": []
+        "platforms": [
+            "android"
+        ]
     },
     "devDependencies": {
+        "cordova-android": "^11.0.0",
         "cordova-plugin-firebasex": "git+https://github.com/dpa99c/cordova-plugin-firebasex.git"
     }
 }
