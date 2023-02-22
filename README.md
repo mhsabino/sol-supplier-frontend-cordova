@@ -46,7 +46,7 @@ Para adicionar `Android target` você precisa fazer isso pela GUI do Android Stu
 
 - Em alguns casos é necessário execurar `cordova clean android` para atualizar o processo de build
 
-> Obs.: Há um script "assign.sh" que executa todo o processo de build do android e assinatura. Esse se encotnra na raiz do diretório desse projeto. Basta executá-lo e o mesmo irá realizar os próximos passos para versão 30 e assinatura v2.
+> Obs.: Há um script "assign.sh" que executa todo o processo de build do android e assinatura. Ele se encontra na raiz do diretório desse projeto. Basta informar as senhas do store e da aplicação e executá-lo. O script irá realizar os próximos passos de criação do APP para versão SDK 32 e assinatura na versão v2.
 
 # Passo a passo para criar builds android
 - Buildar a aplicação do repositório `sol-supplier-frontend` com `yarn run build`
